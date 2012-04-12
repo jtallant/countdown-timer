@@ -1,4 +1,4 @@
-Combination & Permutation Calculator
+jQuery Countdown Timer
 ====================================
 
 Timer counts down from 90 minutes. Timer can be paused and resumed.
